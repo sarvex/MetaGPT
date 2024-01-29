@@ -10,7 +10,7 @@ fire==0.5.0
 # godot==0.1.1
 # google_api_python_client==2.93.0
 lancedb==0.1.16
-langchain==0.0.314
+langchain==0.1.4
 loguru==0.7.2
 meilisearch==0.21.0
 numpy==1.26.1
