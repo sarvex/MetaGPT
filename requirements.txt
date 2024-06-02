@@ -16,7 +16,7 @@ meilisearch==0.21.0
 numpy==1.26.1
 openai==0.27.8
 openpyxl
-beautifulsoup4==4.12.2
+beautifulsoup4==4.12.3
 pandas==2.0.3
 pydantic==1.10.8
 #pygame==2.1.3
