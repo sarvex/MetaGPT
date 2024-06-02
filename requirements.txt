@@ -13,7 +13,7 @@ lancedb==0.1.16
 langchain==0.0.314
 loguru==0.7.2
 meilisearch==0.21.0
-numpy==1.26.1
+numpy==1.26.4
 openai==0.27.8
 openpyxl
 beautifulsoup4==4.12.2
